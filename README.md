@@ -3,7 +3,8 @@ Basic and Simple AIMBOT/ESP Hack using C#/.NET for AssaultCube Game
 ## Description
 made this project for an introduction to game hacking reverse engineering [ just for training purposes ]
 ## Screenshot
-<img src="https://i.ibb.co/3srDTBk/2024-06-07-21-30-59.png" width=600  />
+![image](https://github.com/user-attachments/assets/5673c59b-51ff-44ca-b477-763310722679)
+
 
 ## How to Build
 
